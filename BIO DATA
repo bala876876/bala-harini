@@ -1,0 +1,14 @@
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("NAME : BALA HARINI");
+    System.out.println("DEPARTMENT : COMMERCE");
+    System.out.println("CLASS : B.COM (PA)");
+    System.out.println("YEAR : IInd year");
+    System.out.println("COLLEGE : VICAS");
+    System.out.println("DOB : 24/04/2007");
+    System.out.println("AGE : 18");
+    System.out.println("OCCUPATION : STUDENT");
+    System.out.println("HOBBY : READING");
+    System.out.println("DISTRICT : KARUR"); 
+  }
+}
