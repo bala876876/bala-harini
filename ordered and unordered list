@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The ol element</h1>
+
+<ol>
+  <li>mersal</li>
+  <li>theri</li>
+  <li>master</li>
+  <li>thalaiva</li>
+  <li>maargan</li>
+  <li>dairy</li>
+  <li>dna</li>
+  
+  
+</ol>
+
+<ul>
+  <li>mersal</li>
+  <li>theri</li>
+  <li>master</li>
+  <li>thalaiva</li>
+  <li>maargan</li>
+  <li>dairy</li>
+  <li>dna</li>
+  
+</ul>
+ 
+</body>
+</html>
